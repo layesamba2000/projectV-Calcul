@@ -1,0 +1,17 @@
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\bin\Debug\net8.0-windows\ProjetCalcul.exe
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\bin\Debug\net8.0-windows\ProjetCalcul.deps.json
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\bin\Debug\net8.0-windows\ProjetCalcul.runtimeconfig.json
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\bin\Debug\net8.0-windows\ProjetCalcul.dll
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\bin\Debug\net8.0-windows\ProjetCalcul.pdb
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.Calculatrice.resources
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.Properties.Resources.resources
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.csproj.GenerateResource.cache
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.AssemblyInfoInputs.cache
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.AssemblyInfo.cs
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.csproj.CoreCompileInputs.cache
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.dll
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\refint\ProjetCalcul.dll
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.pdb
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ProjetCalcul.genruntimeconfig.cache
+C:\Users\OUMY LAYE\Documents\document\L3GL\CSharp\ProjetCalcul\ProjetCalcul\obj\Debug\net8.0-windows\ref\ProjetCalcul.dll
